@@ -1,0 +1,9 @@
+{
+  "name": "discourse-backgrounds",
+  "about_url": null,
+  "license_url": null,
+  "assets": {
+    "background-image": "assets/vincent-background.svg"
+  },
+  "color_schemes": {}
+}

@@ -1,0 +1,4 @@
+$secondary: transparentize($secondary, 0.3);
+:root {
+  --secondary-transparent: #{$secondary};
+}
